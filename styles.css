@@ -1,0 +1,30 @@
+h1 {
+    font-family: lao mn, arial, sans-serif;
+    text-align: center;
+    font-size: 35px;
+}
+
+h2 {
+    font-family: lao mn, arial, sans-serif;
+    text-align: center;
+    font-size: 14px;
+}
+
+h3 {
+    font-family: lao mn, arial, sans-serif;
+    text-align: center;
+    font-size: 14px;
+}
+
+h4 {
+    font-family: lao mn, arial, sans-serif;
+    text-align: center;
+    font-size: 18px;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
